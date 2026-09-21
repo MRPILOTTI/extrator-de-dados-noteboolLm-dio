@@ -1,0 +1,28 @@
+OBJETIVOS: 
+	* Mapear a legislação aplicável a montagem de dados de custo de um contrato de mão de obra terceirizada, com dedicação
+exclusiva de mão de obra.
+
+FONTES DE VÍDEO:
+	* https://www.youtube.com/watch?v=dPkCh1I0XPY;
+	* https://www.youtube.com/watch?v=Kle65bqPjNE;
+	* https://www.youtube.com/watch?v=0UjUs99H2tY;
+	* https://www.youtube.com/watch?v=_8ognG8eu9c;
+	* https://www.youtube.com/watch?v=SNDANBJGGmM;
+	* https://www.youtube.com/watch?v=VmQxAeEO7O0;
+	* https://www.youtube.com/watch?v=6iucaJovRmY;
+	* https://www.youtube.com/watch?v=OdcfKNFXagk;
+	* https://www.youtube.com/watch?v=QNviYzcOcBs;
+	* https://www.youtube.com/watch?v=qpwH-RQ4W6Y;
+
+FONTES DE TEXTO:
+	* https://zenite.blog.br/a-terceirizacao-na-administracao-publica-e-a-vedacao-a-superposicao-de-funcoes-comentarios-ao-acordao-25-2026-plenario-tcu/;
+	* https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/instrucao-normativa-de-servicos-in-no-5-de-2017/1-aspectos-gerais-1/1-2-o-que-e;
+
+ENGENHARIA DE PROMPT:
+	* Foi anexado arquivo: TR490011_000033_2025_3.pdf;
+	* Foi feita uma pergunta direta, mas de complexidade média de agrupamento: "Com base no TR490011_000033_2025_3.pdf crie uma planilha excel para custos mensais do referido contrato.";
+
+
+
+
+
